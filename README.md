@@ -17,9 +17,8 @@ npm start
 Enjoy...!
 #### Screenshots:
 
-![Screenshot (15)](https://user-images.githubusercontent.com/74784363/124066260-fb697580-da55-11eb-828f-50c44055295f.png)
-
-![Screenshot (13)](https://user-images.githubusercontent.com/74784363/124066147-c6f5b980-da55-11eb-9136-7eff0552d8a3.png)
+![Screenshot 2021-07-23 120400](https://user-images.githubusercontent.com/74784363/126745770-22716e09-2081-4d11-9533-2a4c1061f761.jpg)
+![Screenshot 2021-07-23 120754](https://user-images.githubusercontent.com/74784363/126745786-283f4a76-9866-4350-af56-3c28b70c5d54.jpg)
 
 
 #### Connect with me:
